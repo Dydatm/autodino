@@ -73,7 +73,7 @@ export default function LoginPage() {
           <div className="mx-auto h-16 w-16 rounded-xl bg-white shadow-lg flex items-center justify-center mb-4">
             <Image src="/icon.png" alt="AutoDino" width={40} height={40} className="rounded-lg" />
           </div>
-          <h2 className="text-3xl font-bold text-gray-900">AutoDino</h2>
+          <h2 className="text-3xl font-bold text-gray-900">AutoDino V1</h2>
           <p className="mt-2 text-sm text-gray-600">
             Réveillez le Dino qui sommeille en vous !
           </p>
